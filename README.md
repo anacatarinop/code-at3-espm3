@@ -9,6 +9,6 @@ Este é o repositório da atividade III, em Java relacionada à matéria de Estr
 
 Para o correto funcionamento deste projeto, é necessário que você instale a seguinte biblioteca externa:
 
-- [lista-lib2](https://github.com/anacatarinop/lista-lib2)
+- [btree-lib] (https://github.com/anacatarinop/lib-btree)
 
 Basta seguir as instruções de instalação na página do repositório da biblioteca para que tudo funcione corretamente.
